@@ -1,0 +1,184 @@
+Training Questions
+Recursion - 31 Questions
+BT - 9 Questions
+
+
+==================================================================================================================================
+**Recursion**
+Print:
+5
+3
+1
+2
+4
+Hint : Odd Even
+
+Prime Number Using Recursion
+Sum of Digit
+i/p : 12345
+o/p : 15
+
+Check if Number is Palindrome Number Using Recursion
+i/p : 12345
+o/p : false
+
+Count Zero in a Digit Using Recursion
+i/p : 10340101
+o/p : 3
+
+Power Calculate Using Recursion
+i/p : 3, 6
+o/p : whatever 3 raise to the power 6 is
+
+Pattern Programs Using Recursion
+
+*****
+*****
+*****
+*****
+*****
+
+*
+**
+***
+****
+*****
+
+*****
+****
+***
+**
+*
+
+1
+2 3
+4 5 6
+7 8 9 10
+
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+
+abcde
+abcd
+abc
+ab
+a
+
+Frequency Count
+i/p : text = "ram sharma"
+o/p : {'r':2, 'a':3, 'm':2, 's':1, 'h':1,}
+
+
+Replace all Pi values with 3.14
+i/p : str = "2*pi+3*pi=5*pi"
+o/p : str = "2*3.14+3*3.14=5*3.14"
+
+
+Adjacent Stars
+i/p : str = "abbabaab"
+o/p : "ab*baba*ab"
+
+
+Check if a number is power of 2
+i/p : 16
+o/p : true
+
+2,4,8,16,32,64,128,256,512,1024....
+
+Check Power of 3
+Check Power of 4
+
+
+Print all subsequences of a string
+i/p : String str = "ravi";
+o/p : "", "r", "a", "v", "i", "ra", "rv", "ri", "ai", "av", "vi", "rav", "rai", "rvi", "avi", "ravi"
+
+Print all String Permutations
+i/p : String str = "abc"
+o/p : {"abc","acb","bca","bac","cba","cab"}
+
+Check whether array is sorted or not
+- i/p : arr = {3,5,7,12,46,77}
+- o/p : true
+Search Element in an array
+Search Element in array from last index
+
+
+Types of Recursion
+- Single Branch
+- Multi Branch
+
+Fibonacci Series
+Print Examples
+Climb Stairs
+
+Dice Count
+
+Maze Path
+Diagonal Maze Path - HW
+Tower of Hanoi - HW
+Josephus Problem
+
+=======================================================================================================================================
+**Backtracking**
+
+N-Queen Problem
+Well Formed Parantheses (Microsoft, Adobe, Nvidia, TCS, Apple)
+Sudoku
+Word Search
+Letter Combination
+Combination Sum : LC-39
+Permutations : LC-46
+Rat in a Maze
+Count ways for Rat in a Maze
+
+
+
+=========================================================================================================================================
+*******Questions by Kunal Kushwaha*******
+
+#####Easy Level#####
+
+Sum Triangle from Array GFG
+Maximum and Minimum value in an array GFG
+Binary Search using recursion leetcode
+First Uppercase Letter in a String GFG
+Reverse String leetcode
+Print 1 To N Without Loop GFG
+Fibonacci Number leetcode
+Special Fibonacci CodeChef
+Length of string using Recursion GFG
+Geek-onacci Number GFG
+Recursive Bubble Sort GFG
+Recursive Insertion Sort GFG
+Sum of digit of a number using Recursion GFG
+Product of two numbers using Recursion GFG
+Check Prime or not GFG
+Sum of Natural numbers using Recursion GFG
+Power of Two leetcode
+Power of Three leetcode
+Power of Four leetcode
+Write a recursive function for given n and a to determine x:
+      n = a ^ x 
+      a = 2, 3, 4
+      (2 ^ -31) <= n <= (2 ^ 31) - 1      
+Write a recursive function that returns the factorial of a number. HackerRank
+Write a recursive function to check whether an array is sorted or not. GFG
+Number of Steps to Reduce a Number to Zero. leetcode
+Check for balanced paranthesis using recursion without stack. GFG
+Remove consecutive duplicate characters from a string. GFG
+Print all possible palindromic partitions of a string. GFG
+Power Set of permutations of a string in Lexicographic order.
+
+
