@@ -16,3 +16,4 @@ public class Nto1Problem {
       print(5);
     }
 }
+
